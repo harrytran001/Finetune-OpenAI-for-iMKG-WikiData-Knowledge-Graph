@@ -31,7 +31,7 @@ poetry install
 * qa_train.json: Train dataset
 * qa_test.json: Test dataset
 
-These 3 files can be found [here](). Place all files in the same directory as the repo.
+These 3 files can be found [here](https://github.com/harrytran001/Finetune-OpenAI-for-iMKG-WikiData-Knowledge-Graph/releases/tag/Files). Place all files in the same directory as the repo.
 
 
 ## 4. Finetuning
