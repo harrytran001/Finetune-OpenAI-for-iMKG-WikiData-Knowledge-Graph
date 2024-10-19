@@ -1,0 +1,9 @@
+iMKG.ttl
+qa_test.json
+qa_train.json
+trained_model_id.txt
+processed_train_data.jsonl
+.env
+.venv
+
+*__pycache__
